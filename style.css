@@ -1,0 +1,45 @@
+body {
+    margin: 100px;
+    font-family: "Poppins", sans-serif;
+    background-color: #002339;
+       
+}
+.upp_text {
+    padding: 5px 0;
+    font-size: 48px;
+    color: white;
+    
+}
+.lower_text {
+    padding: 5px 0 25px;
+    font-size: 48px;
+    color: #019f55;
+    text-decoration: underline;
+}
+.prompt {
+    display: flex;
+    align-items: center;
+    width: 45%;
+    justify-content: space-around;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px 0;
+}
+input {
+    margin-left: -30px;
+    border: none;
+    font-size: 32px;
+}
+img, button:hover {
+cursor: pointer;
+}
+button {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    margin-top: 30px;
+    background-color: #019f55;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+}

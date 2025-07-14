@@ -1,1 +1,1 @@
-https://AGNalivaiko.github.io/Password-Generator/index.html/
+https://AGNalivaiko.github.io/Password-Generator/
